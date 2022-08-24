@@ -1,6 +1,6 @@
-![](https://github.com/agul1no/hello_github.gif)
+### 
 
-### Hi there 👋
+![Hi there 👋](https://github.com/agul1no/hello_github.gif)
 
 <!--
 **agul1no/agul1no** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
