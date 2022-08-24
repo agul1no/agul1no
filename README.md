@@ -1,3 +1,5 @@
+![](https://github.com/agul1no/hello_github.gif)
+
 ### Hi there 👋
 
 <!--
