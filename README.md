@@ -1,6 +1,6 @@
 ### 
 
-<img src="https://github.com/agul1no/agul1no/blob/main/hello_github.gif" width="750" height="350" />
+<img src="https://github.com/agul1no/agul1no/blob/main/hello_all.gif" width="750" height="350" />
 <!--![Hi there 👋](https://github.com/agul1no/agul1no/blob/main/hello_github.gif)-->
 
 <!--
