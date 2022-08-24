@@ -1,7 +1,7 @@
 ### 
 
 <img src="https://github.com/agul1no/agul1no/blob/main/hello_all.gif" width="700" height="300" />
- <font size="3"> My name is Augusto</font> 
+ <font size="8"> My name is Augusto</font> 
     
 
 <!--
