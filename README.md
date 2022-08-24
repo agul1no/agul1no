@@ -1,6 +1,6 @@
 
 
-<img src="https://github.com/agul1no/agul1no/blob/main/hello_all.gif" width="800" height="250" />
+<img src="https://github.com/agul1no/agul1no/blob/main/hello_all.gif" width="800" height="280" />
 
 ✨ Welcome to my Github Profile✨
     
