@@ -1,7 +1,12 @@
 ### 
 
 <img src="https://github.com/agul1no/agul1no/blob/main/hello_all.gif" width="700" height="300" />
-         ##My name is #Augusto
+
+```diff
+- This is a red colored line
++ This is a green colored line
+@@ This is a purple colored line @@
+```
     
 
 <!--
