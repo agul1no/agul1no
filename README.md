@@ -1,7 +1,8 @@
 ### 
 
 <img src="https://github.com/agul1no/agul1no/blob/main/hello_all.gif" width="700" height="300" />
-### My name is Augusto
+ <font size="3"> My name is Augusto</font> 
+    
 
 <!--
 **agul1no/agul1no** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
