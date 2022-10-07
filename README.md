@@ -2,7 +2,7 @@
 
 <img src="https://github.com/agul1no/agul1no/blob/main/hello_all.gif" width="800" height="280" />
 
-<h2>✨ Welcome to my Github Profile✨<h2/>
+<h2 align="center" >✨ Welcome to my Github Profile✨<h2/>
     
 
 <!--
