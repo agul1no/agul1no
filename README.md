@@ -4,7 +4,7 @@
 <p/>
 
 <h2 align="center" >✨ Welcome to my Github Profile ✨<h2/>
-<h1 align="center" >Augusto, Java and App Developer <h1/>
+<h3 align="center" >Augusto, Java and App Developer <h3/>
     
 
 <!--
